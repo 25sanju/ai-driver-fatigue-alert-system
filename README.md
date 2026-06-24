@@ -70,12 +70,16 @@ Driver-Drowsiness-System/
 ---
 
 ## How to Run
----
+
 ```bash
 pip install -r requirements.txt
 python drowsiness.py
 
+-------
 ## Author
 Sanjana
-AI Driver Drowsiness Detection System  
+AI Driver Drowsiness Detection System
 Domain: Computer Vision and Artificial Intelligence
+
+
+---
