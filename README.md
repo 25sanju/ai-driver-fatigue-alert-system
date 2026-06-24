@@ -52,34 +52,15 @@ Driver fatigue is one of the major causes of road accidents worldwide. This syst
 • Night vision support  
 • Vehicle safety automation system  
 
-## Project Structure
-Driver-Drowsiness-System/
-│
-├── drowsiness.py
-├── driver_drowsiness_log.csv
-├── requirements.txt
-│
-├── images/
-│ ├── normal.png
-│ ├── drowsy.png
-│ ├── critical.png
-│ ├── yawn.png
-│
-└── README.md
-
----
-
 ## How to Run
-
 ```bash
 pip install -r requirements.txt
 python drowsiness.py
 
--------
 ## Author
 Sanjana
 AI Driver Drowsiness Detection System
 Domain: Computer Vision and Artificial Intelligence
 
 
----
+
