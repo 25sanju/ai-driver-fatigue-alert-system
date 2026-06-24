@@ -57,10 +57,6 @@ Driver fatigue is one of the major causes of road accidents worldwide. This syst
 pip install -r requirements.txt
 python drowsiness.py
 
-## Author
-Sanjana
-AI Driver Drowsiness Detection System
-Domain: Computer Vision and Artificial Intelligence
 
 
 
