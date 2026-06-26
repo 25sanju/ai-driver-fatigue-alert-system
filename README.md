@@ -146,7 +146,9 @@ The system was tested under different real-world conditions.
 
 **Result:** Face and eyes were detected successfully, and fatigue monitoring worked accurately.
 
-(Add Screenshot Here)
+## 📸 Normal State
+
+![Normal Detection](images/normal.jpeg)
 
 ---
 
@@ -154,41 +156,33 @@ The system was tested under different real-world conditions.
 
 **Result:** The system successfully detected yawning using MediaPipe Face Mesh and increased the fatigue score.
 
-(Add Screenshot Here)
+## 📸 Yarning
+
+![yarn](images/yarn.jpeg)
 
 ---
 
-## Test Case 3: Driver Closing Eyes
 
-**Result:** Continuous eye closure increased the fatigue score, and the system generated a voice warning.
-
-(Add Screenshot Here)
-
----
-
-## Test Case 4: Drowsy Driver
+## Test Case 3: Drowsy Driver
 
 **Result:** When the fatigue score crossed the threshold, the system changed the driver's status from **Normal** to **Drowsy** and produced an alert.
 
-(Add Screenshot Here)
+## 📸 Drowsy State
+
+![Drowsy Detection](images/drowsy.jpeg)
 
 ---
 
-## Test Case 5: Critical Driver State
+## Test Case 4: Critical Driver State
 
 **Result:** When the fatigue score exceeded the critical threshold, the system displayed **Critical** status and generated a stronger voice alert recommending the driver take a break.
 
-(Add Screenshot Here)
+## 📸 Critical State
+
+![Critical Drowsy Detection](images/critical.jpeg)
 
 ---
 
-## Test Case 6: CSV Log Generation
-
-**Result:** Every detection event was successfully stored in a CSV file with timestamp, driver status, fatigue score, and yawning information.
-
-(Add Screenshot Here)
-
----
 
 # Project Structure
 
