@@ -232,6 +232,6 @@ https://docs.python.org/3/
 
 **Skills:** Python | Computer Vision | OpenCV | MediaPipe | Machine Learning
 
-**GitHub:** https://github.com/your-sanjana
+**GitHub:** https://github.com/your-25sanju
 
 **LinkedIn:** https://linkedin.com/in/sanjana
